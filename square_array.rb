@@ -3,3 +3,4 @@ def square_array(array)
   array.each { |i| new_arr << i * i }
   return new_arr
 end
+
